@@ -1,42 +1,42 @@
-<h1 align="center">👋 Olá, eu sou o SEU_NOME</h1>
+<h1 align="center">👋 Hello, I am Athos!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AthosChavesLopesdeAlmeida&color=blue" alt="Profile Views" />
 </p>
 
-<h3 align="center">📈 Gráfico de Contribuições</h3>
+<h3 align="center">📈 Contribution graphic</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AthosChavesLopesdeAlmeida&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
 
-## 👤 Sobre mim
+## 👤 About me
 
-Olá! Sou **SEU_NOME** 👋
+Hello! I'm **Athos** 👋
 
-Escreva aqui um pouco sobre você: idade, país, há quanto tempo programa, etc.
+I am a full-stack web dev from Brazil
 
-Trabalho com **HTML, CSS, JavaScript, Python** e me interesso por **[SUAS ÁREAS DE INTERESSE]**.
+I work with **TypeScript, Nextjs, React, Nodejs and Express** and, besides web development, i also like **Linux, CyberSecurity and Docker**.
 
-## 🌱 Interesses
+## 🧠 My interests
 
-Além de programação, gosto de aprender sobre:
+Besides programming, these are stuff I like:
 
-- 🔒 Item de interesse 1
-- 🏛️ Item de interesse 2
-- 📚 Item de interesse 3
+- 🥊 Fighting sports such as boxing and MMA
+- 🏛️ History, mainly ancient and medieval history
+- 📚 Philosophy
 
 ---
 
-## 🚀 Stack
+## 🚀 My stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,ts,react,nodejs,nextjs,express" alt="Stack" />
 </p>
 
-## 🔧 Ferramentas
+## 🔧 Tools I use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Tools" />
@@ -53,14 +53,11 @@ Além de programação, gosto de aprender sobre:
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:athoschaveslopesdealmeida@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://discord.com/users/SEU_USUARIO_DISCORD">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://reddit.com/user/SEU_USUARIO_REDDIT">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </p>
 
@@ -68,7 +65,7 @@ Além de programação, gosto de aprender sobre:
 <summary>📊 GitHub Stats</summary>
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=AthosChavesLopesdeAlmeida&show_icons=true&theme=dark)
 
 </details>
 
