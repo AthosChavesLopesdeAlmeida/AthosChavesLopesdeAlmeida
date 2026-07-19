@@ -74,6 +74,6 @@ Besides programming, these are stuff I like:
 <br>
 
 - [E-commerce project](https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Ecommerce)
-- [Reservations project]((https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Reservations))
+- [Reservations project](https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Reservations)
 
 </details>
