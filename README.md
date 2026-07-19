@@ -33,7 +33,7 @@ Além de programação, gosto de aprender sobre:
 ## 🚀 Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,nodejs,nextjs" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=tailwind,ts,react,nodejs,nextjs,express" alt="Stack" />
 </p>
 
 ## 🔧 Ferramentas
