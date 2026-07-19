@@ -24,7 +24,7 @@ I work with **TypeScript, Nextjs, React, Nodejs and Express** and, besides web d
 
 Besides programming, these are stuff I like:
 
-- 🥊 Fighting sports such as boxing and MMA
+- 🥊 Combat sports such as boxing and MMA
 - 🏛️ History, mainly ancient and medieval history
 - 📚 Philosophy
 
