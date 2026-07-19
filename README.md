@@ -42,7 +42,7 @@ Besides programming, these are stuff I like:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows" alt="Tools" />
 </p>
 
-## 🌐 Comunidades
+## 🌐 Communities
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
@@ -50,7 +50,7 @@ Besides programming, these are stuff I like:
 
 ---
 
-## 📬 Contato
+## 📬 Contact 
 
 <p align="center">
   <a href="mailto:athoschaveslopesdealmeida@gmail.com">
@@ -70,7 +70,7 @@ Besides programming, these are stuff I like:
 </details>
 
 <details>
-<summary>📦 Meus Projetos Favoritos</summary>
+<summary>📦 My favorite projects</summary>
 <br>
 
 - [E-commerce project](https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Ecommerce)
