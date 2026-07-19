@@ -18,7 +18,7 @@ Hello! I'm **Athos** 👋
 
 I am a full-stack web dev from Brazil
 
-I work with **TypeScript, Nextjs, React, Nodejs and Express** and, besides web development, i also like **Linux, CyberSecurity and Docker**.
+I work with **TypeScript, Nextjs, React, Nodejs and Express** and, besides web development, i also like **Linux, CyberSecurity, Docker and AI**.
 
 ## 🧠 My interests
 
@@ -73,7 +73,7 @@ Besides programming, these are stuff I like:
 <summary>📦 Meus Projetos Favoritos</summary>
 <br>
 
-- [Nome do Projeto 1](https://github.com/SEU_USUARIO/projeto1)
-- [Nome do Projeto 2](https://github.com/SEU_USUARIO/projeto2)
+- [E-commerce project](https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Ecommerce)
+- [Reservations project]((https://github.com/AthosChavesLopesdeAlmeida/Fullstack_Project_Reservations))
 
 </details>
